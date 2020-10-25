@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>com.valebridgetech</groupId>
-  <artifactId>route-discoverable</artifactId>
+  <artifactId>raven-dataformat</artifactId>
   <versioning>
     <versions>
       <version>1.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20201025070310</lastUpdated>
+    <lastUpdated>20201025070414</lastUpdated>
   </versioning>
 </metadata>
