@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>com.valebridgetech</groupId>
-  <artifactId>raven-dataformat</artifactId>
+  <artifactId>api-client</artifactId>
   <versioning>
     <versions>
       <version>1.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20201025072847</lastUpdated>
+    <lastUpdated>20201025124952</lastUpdated>
   </versioning>
 </metadata>
